@@ -31,6 +31,15 @@ Dynamic Programming (DP) is a powerful algorithmic technique for solving complex
 - **Egg Dropping Puzzle**
     -   [Python](./egg_dropping.py)
     -   [Java](./egg_dropping.java)
+- **Word Break**
+    -   [Python](./word_break.py)
+    -   [Java](./word_break.java)
+- **Partition Equal Subset Sum**
+    -   [Python](./partition_equal_subset_sum.py)
+    -   [Java](./partition_equal_subset_sum.java)
+- **Minimum Path Sum**
+    -   [Python](./minimum_path_sum.py)
+    -   [Java](./minimum_path_sum.java)
 
 ## Files in this directory
 - `fibonacci_number.py` / `fibonacci_number.java` - Solutions for the Fibonacci sequence using memoization and tabulation.
