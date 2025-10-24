@@ -23,8 +23,10 @@
 *.so
 *.dll
 *.dylib
+*.sh
 *.a
 *.lib
+*.bat
 
 # Python compiled files
 __pycache__/
@@ -386,3 +388,4 @@ create-github-issues.bat
 github-issues-templates.md
 issue-creation-guide.md
 create-github-issues.sh
+create-individual-issues.ps1
