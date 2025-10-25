@@ -19,9 +19,32 @@ Dynamic Programming (DP) is a powerful algorithmic technique for solving complex
 - Matrix Chain Multiplication
 - Fibonacci and other sequence-based problems
 - Problems on grids (e.g., unique paths)
+- **Longest Increasing Subsequence**
+    -   [Python](./longest_increasing_subsequence.py)
+    -   [Java](./longest_increasing_subsequence.java)
+- **Rod Cutting**
+    -   [Python](./rod_cutting.py)
+    -   [Java](./rod_cutting.java)
+- **Matrix Chain Multiplication**
+    -   [Python](./matrix_chain_multiplication.py)
+    -   [Java](./matrix_chain_multiplication.java)
+- **Egg Dropping Puzzle**
+    -   [Python](./egg_dropping.py)
+    -   [Java](./egg_dropping.java)
+- **Word Break**
+    -   [Python](./word_break.py)
+    -   [Java](./word_break.java)
+- **Partition Equal Subset Sum**
+    -   [Python](./partition_equal_subset_sum.py)
+    -   [Java](./partition_equal_subset_sum.java)
+- **Minimum Path Sum**
+    -   [Python](./minimum_path_sum.py)
+    -   [Java](./minimum_path_sum.java)
 
 ## Files in this directory
 - `fibonacci_number.py` / `fibonacci_number.java` - Solutions for the Fibonacci sequence using memoization and tabulation.
 - `climbing_stairs.py` / `climbing_stairs.java` - Classic DP problem for counting ways to climb stairs.
 - `knapsack_01.py` / `knapsack_01.java` - Solutions for the 0/1 Knapsack problem.
 - `longest_common_subsequence.py` / `longest_common_subsequence.java` - Finding the longest common subsequence between two strings.
+- `coin_change.py` / `coin_change.java` - Finding the number of ways to make change for a given amount.
+- `longest_increasing_subsequence.py` / `longest_increasing_subsequence.java` - Finding the longest increasing subsequence in an array.
